@@ -1,5 +1,7 @@
 <?php
 
+include __DIR__ . '/data/includes/data.php';
+
 class Movie
 {
     public $id;
